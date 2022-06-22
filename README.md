@@ -1,7 +1,7 @@
 # Spring-108
 Spring-108
 Binary code:
-                                if assxw>=e3%2:
+                                        if assxw>=e3%2:
                                             if e4=="1":
                                                 sda3=sda3+"0"
                                                 e4="0"
